@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type="Command">
+		<Assembly>"C:\Program Files\RevitAPI\NumberPipesActiveForm.dll"</Assembly>
+		<AddInId>5EB72E95-B9E9-4048-93E9-E9F771E15CCD</AddInId>		
+		<FullClassName>NumberPipesActiveForm.Main</FullClassName>
+		<VendorId>ADSC</VendorId>
+		<Text>К-во труб в активном виде</Text>	
+	</AddIn>
+</RevitAddIns>
